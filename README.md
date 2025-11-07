@@ -21,18 +21,6 @@
 
 ---
 
-## Screenshots
-
-<div align="center">
-  <img src=".github/screenshots/1.png" width="200" alt="Connect Screen" />
-  <img src=".github/screenshots/2.png" width="200" alt="Calling" />
-  <img src=".github/screenshots/3.png" width="200" alt="Video Call" />
-</div>
-
-*(Add your screenshots in `.github/screenshots/`)*
-
----
-
 ## Requirements
 
 - iOS 26.0+
